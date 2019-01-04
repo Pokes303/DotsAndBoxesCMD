@@ -1,0 +1,6 @@
+C:\Users\Jose\source\repos\DotsAndBoxesCMD\DotsAndBoxesCMD\bin\Debug\DotsAndBoxesCMD.exe
+C:\Users\Jose\source\repos\DotsAndBoxesCMD\DotsAndBoxesCMD\bin\Debug\DotsAndBoxesCMD.pdb
+C:\Users\Jose\source\repos\DotsAndBoxesCMD\DotsAndBoxesCMD\obj\Debug\DotsAndBoxesCMD.csprojAssemblyReference.cache
+C:\Users\Jose\source\repos\DotsAndBoxesCMD\DotsAndBoxesCMD\obj\Debug\DotsAndBoxesCMD.csproj.CoreCompileInputs.cache
+C:\Users\Jose\source\repos\DotsAndBoxesCMD\DotsAndBoxesCMD\obj\Debug\DotsAndBoxesCMD.exe
+C:\Users\Jose\source\repos\DotsAndBoxesCMD\DotsAndBoxesCMD\obj\Debug\DotsAndBoxesCMD.pdb
