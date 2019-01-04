@@ -6,7 +6,7 @@ using System.Reflection;
 /* Dots and Boxes in CMD by Pokes
  * Feel free to edit this project, but no to republish it
  * because it took many hours.
- * For more info about this project, see www.github.com/pokes303/DotsAndBoxesCMD
+ * For more info about this project, see https://github.com/pokes303/DotsAndBoxesCMD
  */
 
 namespace DotsAndBoxesCMD
