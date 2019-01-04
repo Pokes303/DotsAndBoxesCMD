@@ -1,5 +1,5 @@
 # DotsAndBoxesCMD
-Dots and boxes made in a console application with ~500 lines of code in C# _(.NET 2.0)
+Dots and boxes made in a console application with ~500 lines of code in C# _(.NET 2.0)_
 
 To play the game you need to select how many players will play locally (1 to 5) and the grid size (2 to 99)
 
